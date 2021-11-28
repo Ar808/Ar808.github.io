@@ -5,9 +5,9 @@
 layout: default
 ---
 
-# Soon
+# Coming Soon
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+This Website is Under Construction.
 
 ## What's in it?
 
